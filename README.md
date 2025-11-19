@@ -10,7 +10,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>👋 欢迎找我</h3>
@@ -31,7 +31,7 @@
 <td width="50%" align="right" valign="top">
 <img src="wechat_qr_code_1.jpg" width="200" alt="微信二维码1">
 <br><br>
-<img src="wechat_qr_code_2.png" width="200" alt="微信二维码2">
+<img src="wechat_qr_code_2.png" width="200" alt="二维码2">
 <br><br>
 <p>
 <a href="mailto:wy163jxy@163.com">wy163jxy@163.com</a> 📧<br>

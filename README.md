@@ -22,3 +22,17 @@
 不妨试试和我聊聊天
 
 > 只看现在，不看过去，不看未来
+
+<img src="https://skillicons.dev/icons?i=python,maths,biohazard,music,game,fitness&perline=6&theme=light" alt="六维" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reviahh&layout=donut-vertical&theme=light&hide_border=true&bg_color=ffffff&title_color=89C9B8&text_color=89C9B8&hide=html,css,javascript" alt="属性雷达" width="400" />
+
+<noscript>
+<style>
+  .js-yearly-contributions { display: none !important; }
+  .ContributionsCalendar-grid { display: none !important; }
+  [data-testid="profile-contributions"] { display: none !important; }
+  .js-calendar-graph-svg { display: none !important; }
+  section[aria-labelledby="repositories"] .BorderGrid-cell > div > div > div { display: none !important; }
+</style>
+</noscript>

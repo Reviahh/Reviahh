@@ -1,5 +1,3 @@
-# Reviah
-
 喜欢和人聊天，喜欢和人一起玩
 
 <img src="https://img.shields.io/badge/偏好-Bayes推理-F5F9F5?style=flat-square&color=89C9B8" /> 
@@ -7,7 +5,6 @@
 <img src="https://img.shields.io/badge/追求-逻辑艺术-F5F9F5?style=flat-square&color=89C9B8" />
 
 —— 「世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它」
-
 
 ### 欢迎找我
 

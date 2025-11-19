@@ -33,10 +33,7 @@
 
 <td width="50%" valign="top" align="right">
 
-<div align="right">
-<img src="wechat_qr_code_1.jpg" width="200">
-<img src="wechat_qr_code_2.png" width="200">
-</div>
+<img src="wechat_qr_code_1.jpg" width="200"> <img src="wechat_qr_code_2.png" width="200">
 
 <br><br>
 

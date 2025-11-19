@@ -12,34 +12,48 @@
 
 ## 欢迎找我
 
-如果你也：
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
-- 喜欢 Bayes
-- 喜欢听各种音乐
-- 喜欢看古今中外各种书
-- 喜欢《寻宝游戏》和《青年晚报》
-- 喜欢听《Beautiful World》
-- 喜欢骂阴阳师策划
-- 喜欢打危机合约
-- 喜欢健身
-- ……
+- 喜欢 Bayes  
+- 喜欢听各种音乐  
+- 喜欢看古今中外各种书  
+- 喜欢《寻宝游戏》和《青年晚报》  
+- 喜欢听《Beautiful World》  
+- 喜欢骂阴阳师策划  
+- 喜欢打危机合约  
+- 喜欢健身  
+- ……  
 
 不妨试试和我聊聊天。
 
----
+</td>
+<td width="25%" valign="top" align="center">
 
-## 联系方式
+<img src="wechat_qr_code_1.jpg" width="200">
 
-### Wechat & QQ
-![QR1](wechat_qr_code_1.jpg) ![QR2](wechat_qr_code_2.png)
+</td>
+<td width="25%" valign="top" align="center">
 
-### 邮箱
+<img src="wechat_qr_code_2.png" width="250">
+
+</td>
+<td width="25%" valign="top" align="left">
+
+**邮箱：**  
+
 - wy163jxy@163.com  
-- xyjiang1218@gmail.com
+- xyjiang1218@gmail.com  
 
-### 主页链接
+**主页链接：**  
+
 - [Bilibili 主页](https://space.bilibili.com/505173929)  
 - [Twitter / X](https://x.com/jxy23503735)
+
+</td>
+</tr>
+</table>
 
 ---
 

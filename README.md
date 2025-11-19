@@ -26,8 +26,6 @@
 - 喜欢健身  
 - ……  
 
-不妨试试和我聊聊天。
-
 </td>
 <td width="23%" valign="top" align="center">
 

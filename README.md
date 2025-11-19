@@ -14,7 +14,7 @@
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="30%" valign="top">
 
 - 喜欢 Bayes  
 - 喜欢听各种音乐  
@@ -29,17 +29,17 @@
 不妨试试和我聊聊天。
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="23%" valign="top" align="center">
 
 <img src="wechat_qr_code_1.jpg" width="200">
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="23%" valign="top" align="center">
 
 <img src="wechat_qr_code_2.png" width="250">
 
 </td>
-<td width="25%" valign="top" align="left">
+<td width="24%" valign="top" align="left">
 
 **邮箱：**  
 

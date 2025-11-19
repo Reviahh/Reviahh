@@ -12,48 +12,34 @@
 
 ---
 
-### 👋 欢迎找我
+### 欢迎找我
 
-我是个喜欢聊天、喜欢一起玩的人。**只看现在，不看过去，不看未来。**
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 逻辑与书影</h4>
-      <ul>
-        <li><b>Bayes 推理</b>：迷恋概率与不确定性中的逻辑美感</li>
-        <li><b>阅读</b>：古今中外，来者不拒</li>
-        <li><b>音乐</b>：<br/>
-          - 循环播放 🎵 <i>Beautiful World</i><br/>
-          - 许嵩满级学者 (🎵 <i>寻宝游戏</i> / <i>青年晚报</i>)
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 游戏与生活</h4>
-      <ul>
-        <li><b>健身</b>：身体是革命的本钱</li>
-        <li><b>Arkights</b>：热衷于打危机合约 (硬核塔防爱好者)</li>
-        <li><b>Onmyoji</b>：日常辱骂策划 (又爱又恨)</li>
-        <li><b>其他</b>：......</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-<br/>
+如果你也：
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=你的GITHUB用户名&show_icons=true&theme=gotham&hide_border=true&bg_color=F5F9F5&title_color=89C9B8&icon_color=89C9B8&text_color=555" alt="Stats" />
-    
-    <br/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GITHUB用户名&layout=compact&hide_border=true&bg_color=F5F9F5&title_color=89C9B8&text_color=555" alt="Languages" />
+- 喜欢 Bayes
 
-</div>
+- 喜欢听各种音乐
 
-<br/>
+- 喜欢看古今中外各种书
 
-<div align="center">
-  <sub>如果你也喜欢上面这些，不妨试试点击左侧头像下的联系方式，和我聊聊天。</sub>
-</div>
+- 喜欢《寻宝游戏》和《青年晚报》
+
+- 喜欢听《Beautiful World》
+
+- 喜欢骂阴阳师策划
+
+- 喜欢打危机合约
+
+- 喜欢健身
+
+- ……
+
+
+
+不妨试试和我聊聊天
+
+
+
+> 只看现在，不看过去，不看未来

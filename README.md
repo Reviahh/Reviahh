@@ -10,40 +10,37 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 欢迎找我
 
-<h3>👋 欢迎找我</h3>
-<p>如果你也：</p>
-<ul>
-<li>喜欢 Bayes</li>
-<li>喜欢听各种音乐</li>
-<li>喜欢看古今中外各种书</li>
-<li>喜欢《寻宝游戏》和《青年晚报》</li>
-<li>喜欢听《Beautiful World》</li>
-<li>喜欢骂阴阳师策划</li>
-<li>喜欢打危机合约</li>
-<li>喜欢健身</li>
-<li>……</li>
-</ul>
-<p>不妨试试和我聊聊天。</p>
+如果你也：
 
-</td>
+- 喜欢 Bayes
+- 喜欢听各种音乐
+- 喜欢看古今中外各种书
+- 喜欢《寻宝游戏》和《青年晚报》
+- 喜欢听《Beautiful World》
+- 喜欢骂阴阳师策划
+- 喜欢打危机合约
+- 喜欢健身
+- ……
 
-<td width="50%" valign="top" align="right">
+不妨试试和我聊聊天。
 
-<img src="wechat_qr_code_1.jpg" width="200"> <img src="wechat_qr_code_2.png" width="200">
+---
 
-<br><br>
+## 联系方式
 
-<a href="mailto:wy163jxy@163.com">wy163jxy@163.com</a> 📧<br>
-<a href="mailto:xyjiang1218@gmail.com">xyjiang1218@gmail.com</a> 📧<br>
-<a href="https://space.bilibili.com/505173929">Bilibili 主页</a> 📺<br>
-<a href="https://x.com/jxy23503735">Twitter / X</a> ✖️
+### Wechat & QQ
+![QR1](wechat_qr_code_1.jpg) ![QR2](wechat_qr_code_2.png)
 
-</td>
-</tr>
-</table>
+### 邮箱
+- wy163jxy@163.com  
+- xyjiang1218@gmail.com
+
+### 主页链接
+- [Bilibili 主页](https://space.bilibili.com/505173929)  
+- [Twitter / X](https://x.com/jxy23503735)
+
+---
 
 > 只看现在，不看过去，不看未来
